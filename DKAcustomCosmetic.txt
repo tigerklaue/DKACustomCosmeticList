@@ -19,6 +19,7 @@ Cosmetic Whitelist CRC: 1020402|0|1|331549822
 Cosmetic Whitelist CRC: 1006355|0|1|323205025
 Cosmetic Whitelist CRC: 979950|0|1|1161942287
 Cosmetic Whitelist CRC: 974353|0|1|-350770475
+Cosmetic Whitelist CRC: 1030997|0|1|-1321326967
 
 
 
